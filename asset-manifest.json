@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/brightid-nft-mint-public/static/css/main.bae653d2.chunk.css",
-    "main.js": "/brightid-nft-mint-public/static/js/main.b6071cd3.chunk.js",
-    "main.js.map": "/brightid-nft-mint-public/static/js/main.b6071cd3.chunk.js.map",
+    "main.js": "/brightid-nft-mint-public/static/js/main.fe569da3.chunk.js",
+    "main.js.map": "/brightid-nft-mint-public/static/js/main.fe569da3.chunk.js.map",
     "runtime-main.js": "/brightid-nft-mint-public/static/js/runtime-main.f57fe7b8.js",
     "runtime-main.js.map": "/brightid-nft-mint-public/static/js/runtime-main.f57fe7b8.js.map",
-    "static/js/2.b8320085.chunk.js": "/brightid-nft-mint-public/static/js/2.b8320085.chunk.js",
-    "static/js/2.b8320085.chunk.js.map": "/brightid-nft-mint-public/static/js/2.b8320085.chunk.js.map",
+    "static/js/2.76691c59.chunk.js": "/brightid-nft-mint-public/static/js/2.76691c59.chunk.js",
+    "static/js/2.76691c59.chunk.js.map": "/brightid-nft-mint-public/static/js/2.76691c59.chunk.js.map",
     "static/js/3.ee2281b1.chunk.js": "/brightid-nft-mint-public/static/js/3.ee2281b1.chunk.js",
     "static/js/3.ee2281b1.chunk.js.map": "/brightid-nft-mint-public/static/js/3.ee2281b1.chunk.js.map",
     "index.html": "/brightid-nft-mint-public/index.html",
     "static/css/main.bae653d2.chunk.css.map": "/brightid-nft-mint-public/static/css/main.bae653d2.chunk.css.map",
-    "static/js/2.b8320085.chunk.js.LICENSE.txt": "/brightid-nft-mint-public/static/js/2.b8320085.chunk.js.LICENSE.txt",
+    "static/js/2.76691c59.chunk.js.LICENSE.txt": "/brightid-nft-mint-public/static/js/2.76691c59.chunk.js.LICENSE.txt",
     "static/media/google-play.841fe8b4.png": "/brightid-nft-mint-public/static/media/google-play.841fe8b4.png",
     "static/media/is-verified-ss.3e77ab12.png": "/brightid-nft-mint-public/static/media/is-verified-ss.3e77ab12.png",
     "static/media/logo.b1016540.png": "/brightid-nft-mint-public/static/media/logo.b1016540.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f57fe7b8.js",
-    "static/js/2.b8320085.chunk.js",
+    "static/js/2.76691c59.chunk.js",
     "static/css/main.bae653d2.chunk.css",
-    "static/js/main.b6071cd3.chunk.js"
+    "static/js/main.fe569da3.chunk.js"
   ]
 }
