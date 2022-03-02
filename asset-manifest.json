@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/brightid-nft-mint-public/static/css/main.6b2257ce.chunk.css",
-    "main.js": "/brightid-nft-mint-public/static/js/main.85aff3db.chunk.js",
-    "main.js.map": "/brightid-nft-mint-public/static/js/main.85aff3db.chunk.js.map",
+    "main.css": "/brightid-nft-mint-public/static/css/main.000aa0a1.chunk.css",
+    "main.js": "/brightid-nft-mint-public/static/js/main.593ffa0b.chunk.js",
+    "main.js.map": "/brightid-nft-mint-public/static/js/main.593ffa0b.chunk.js.map",
     "runtime-main.js": "/brightid-nft-mint-public/static/js/runtime-main.f57fe7b8.js",
     "runtime-main.js.map": "/brightid-nft-mint-public/static/js/runtime-main.f57fe7b8.js.map",
-    "static/js/2.76691c59.chunk.js": "/brightid-nft-mint-public/static/js/2.76691c59.chunk.js",
-    "static/js/2.76691c59.chunk.js.map": "/brightid-nft-mint-public/static/js/2.76691c59.chunk.js.map",
+    "static/js/2.75056812.chunk.js": "/brightid-nft-mint-public/static/js/2.75056812.chunk.js",
+    "static/js/2.75056812.chunk.js.map": "/brightid-nft-mint-public/static/js/2.75056812.chunk.js.map",
     "static/js/3.ee2281b1.chunk.js": "/brightid-nft-mint-public/static/js/3.ee2281b1.chunk.js",
     "static/js/3.ee2281b1.chunk.js.map": "/brightid-nft-mint-public/static/js/3.ee2281b1.chunk.js.map",
     "index.html": "/brightid-nft-mint-public/index.html",
-    "static/css/main.6b2257ce.chunk.css.map": "/brightid-nft-mint-public/static/css/main.6b2257ce.chunk.css.map",
-    "static/js/2.76691c59.chunk.js.LICENSE.txt": "/brightid-nft-mint-public/static/js/2.76691c59.chunk.js.LICENSE.txt",
+    "static/css/main.000aa0a1.chunk.css.map": "/brightid-nft-mint-public/static/css/main.000aa0a1.chunk.css.map",
+    "static/js/2.75056812.chunk.js.LICENSE.txt": "/brightid-nft-mint-public/static/js/2.75056812.chunk.js.LICENSE.txt",
     "static/media/google-play.841fe8b4.png": "/brightid-nft-mint-public/static/media/google-play.841fe8b4.png",
     "static/media/is-verified-ss.3e77ab12.png": "/brightid-nft-mint-public/static/media/is-verified-ss.3e77ab12.png",
     "static/media/logo.b1016540.png": "/brightid-nft-mint-public/static/media/logo.b1016540.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f57fe7b8.js",
-    "static/js/2.76691c59.chunk.js",
-    "static/css/main.6b2257ce.chunk.css",
-    "static/js/main.85aff3db.chunk.js"
+    "static/js/2.75056812.chunk.js",
+    "static/css/main.000aa0a1.chunk.css",
+    "static/js/main.593ffa0b.chunk.js"
   ]
 }
